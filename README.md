@@ -1,4 +1,6 @@
 # whatsapp-gateway
+I am using Seleneum for Opera. You can replace by your favourite browser.
+
 ## read.py
 read.py is an example of reading WhatsApp message for Group and Individual
 1) Read the group name
